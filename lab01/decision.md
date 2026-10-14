@@ -44,3 +44,9 @@ The Product Owner stays the same all semester.
 ## Agreed by
 
 <!-- each member adds "- Name, date" in their own commit (Task 2) -->
+
+• Every pull request is reviewed by one other member within 24 h (Mon-Fri); the author merges after approval. (Lor hengleap)
+• Anyone blocked for more than 2 hours posts in the chat.
++ Decision rules: product -> PO decides after hearing everyone;
+  technical -> consensus within 24 h, else majority vote;
+  deadlock -> ask the TA at the next lab session.
