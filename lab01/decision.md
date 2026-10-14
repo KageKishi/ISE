@@ -14,25 +14,29 @@ The Product Owner stays the same all semester.
 
 ## Working agreements
 
-1. TODO (checkable: a time, a number or an observable action)
-2. ...
+1. TODO (checkable: a time, a number or an observable action).
+2. Every pull request is reviewed by one other member within 24 h (Mon-Fri); the author merges after approval. (Lor hengleap).
+3. Work/Focus on your own branch instead of the main branch.
+4. Have a meet up/meeting at least once every week.
+5. All members must help each other explain group project and To-Do path.
+6. At the end of each feature, the team reviews completed tasks and discusses what can be improved.
 
 ## Communication channels
 
-| Purpose    | Channel         | Expected response |
-| ---------- | --------------- | ----------------- |
-| Chat       |                 |                   |
-| Work items | GitHub Issues   |                   |
-| Files      | this repository | n/a               |
-| Meetings   |                 |                   |
+| Purpose    | Channel             | Expected response    |
+| ---------- | ------------------- | -------------------- |
+| Chat       | Telegram Group Chat | 1-2 hour             |
+| Work items | GitHub Issues       | n/a                  |
+| Files      | this repository     | within a day         |
+| Meetings   | IRL , VC            | at least once a week |
 
 ## Decision rules
 
-- Product questions:
-- Technical questions:
-- Deadlock (no agreement after \_\_ hours):
+- Product questions:product -> PO decides after hearing everyone;
+- Technical questions:consensus within 24 h, else majority vote;
+- Deadlock (no agreement after \_\_ hours):ask the Professor at the next lab session.
 - Where decisions are recorded: lab01/decisions.md
-- 
+
 
 # Decision log · <team name> (v0.1, 2026-__-__)
 
@@ -40,13 +44,9 @@ The Product Owner stays the same all semester.
 | --- | ---------- | ------------------- | ------------ | ----------------------- |
 | 1   | 10/14/2026 | Team name"ISE-4G"   | vote 4-0     | ISE                     |
 | 2   | 10/14/2026 | Scrum Master Vansak | ProductOwner | None                    |
+| 3   | 10/14/2026 | Working Agreements  | Everyone     | None                    |
 
 ## Agreed by
 
 <!-- each member adds "- Name, date" in their own commit (Task 2) -->
 
-• Every pull request is reviewed by one other member within 24 h (Mon-Fri); the author merges after approval. (Lor hengleap)
-• Anyone blocked for more than 2 hours posts in the chat.
-+ Decision rules: product -> PO decides after hearing everyone;
-  technical -> consensus within 24 h, else majority vote;
-  deadlock -> ask the TA at the next lab session.
